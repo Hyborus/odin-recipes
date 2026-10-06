@@ -1,0 +1,38 @@
+body {
+    background-color: #EB3434;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+li {
+    font-size: large;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    margin: 10px;
+    width: fit-content;
+    background-color: crimson;
+}
+
+ul {
+    width: 100%;
+    box-sizing: border-box;
+    height: 150px;
+    background-color: cyan;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+li a {
+    color: aliceblue;
+}
+
+.chicken {
+    margin-top: 5px;
+}
